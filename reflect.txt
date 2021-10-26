@@ -1,0 +1,29 @@
+======================
+|Workshop Reflection:3|
+======================
+Pseudo-code made this lab possible for me as breking down each issue I faced into many simple steps allowed me to 
+more easily plan and prepare for the format of my code. This made the coding part go a lot quicker and require a lot more going back and fixing or adding things needed for later code. It was better to plan ahead as looking at the 
+entirety of my code and thinking through what I would need as far as variables and other lines of code helped to save a lot of time and avoid many semantic errors.
+
+The 3 types of iteration constructs are do while while and for. I used the for loop in order to do the inputs and 
+store each input as the user is inputting them. I used a while statement in order so set velues for which a user input would be considered incorrect. I used this within the for this task because I was more practiced with the wile loop rather than do while. 
+
+I found the most dificult portion of this excersise to be creating a manner in which my code would be able to output the maximum and minimum temperatures. 
+
+Quiz 3 Corrections
+Question 1: 
+Wrong answer:3
+Correct answer:2
+Question 3:
+Wrong answer: if/else
+correct answer:break
+Question 4:
+Wrong answer: True
+correct answer: False
+Qestion 5:
+Wrong answer:no output
+Correct answer:Gulp! Slices left 11,slices
+Question9:
+Wrong answer:3
+Correct answer:4
+  
